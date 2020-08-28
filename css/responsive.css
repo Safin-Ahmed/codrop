@@ -1,0 +1,314 @@
+@media(max-width: 1399px){
+
+			header{
+				background-size: 600px;
+			}
+			.about-section{
+				background-size: 700px !important;
+			}
+			.question-section h1{
+				font-size: 24px;
+			}
+
+			.follow{
+	max-width: 100px;
+	padding-bottom: 35px;}
+
+}
+	.social-link li a{
+		width: 50px;
+	}
+
+@media(max-width: 1199px){
+
+		header h1 {
+		    font-size: 38px;
+		    line-height: 1.4;
+			}
+
+		header p {
+
+			    line-height: 1.7;
+			    margin: 20px 0;
+			    font-size: 15px;
+			}
+
+		.banner-content a{
+
+				padding-top: 10px !important;
+				padding-bottom: 10px !important;
+		}
+
+		.banner-content a i{
+			font-size: 30px;
+		}
+
+		.partner-section .row div{
+			padding: 2rem !important;
+		}
+
+		.feature h1 {
+    	font-size: 23px;
+    	line-height: 1.5;
+    	margin-bottom: 15px;
+	   }
+	   .feature a{
+	   	margin-top: 10px;
+	   }
+
+	p{
+		font-size: 15px;
+		line-height: 1.7;
+	}
+
+	.about-section{
+				background-size: 600px !important;
+			}
+	.about-section h1{
+		font-size: 28px;
+	}
+
+	.question-section ul li span {
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+}
+
+.question-section ul li{
+	font-size: 14px;
+}
+
+.question-section ul li i{
+	font-size: 16px;
+}
+.question-section h1{
+	font-size: 19px;
+}
+.members-section h1{
+	font-size: 28px;
+}
+
+.social-link li a {
+    width: 42px;
+    height: 40px;
+    line-height: 40px;
+}
+.footer-content ul li a {
+    font-size: 14px;
+}
+
+.footer-content ul li h5.head {
+    padding-bottom: 15px;
+}
+
+.footer-content ul li {
+    padding: 28px 0;
+    padding-top: 0;
+}
+
+}
+
+@media(max-width: 991px){
+
+	header{
+		background-size: 450px;
+	}
+
+	.banner-content{
+		padding: 100px 0;
+	}
+
+	header h1 {
+    
+    font-size: 32px;
+  
+	}
+
+	.partner-section .row div {
+
+     padding: 1rem !important;
+
+	}
+
+	.feature-padding{
+		padding-top: 30px;
+	}
+
+	.about-section{
+				background-size: 430px !important;
+				padding: 60px 0;
+			}
+	.about-section h1{
+		font-size: 22px;
+	}
+
+	.question-section ul li span {
+    width: 22px;
+    height: 22px;
+    line-height: 22px;
+}
+
+.question-section ul li{
+	font-size: 12px;
+}
+
+.question-section ul li i{
+	font-size: 14px;
+}
+.members-section h1{
+	line-height: 1.5;
+}
+.price-heading {
+    padding: 40px 20px;
+
+}
+
+.price-table ul li {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.price-table ul li i {
+    
+  margin-right: 5px;
+}
+.order-now{
+	padding: 40px 20px;
+}
+.subscription-section{
+	padding: 70px 0;
+}
+.subscription-section button {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.subscription-section .heading h1{
+	font-size: 22px;
+}
+.subscription-section .heading p{
+	font-size: 12px;
+}
+label.invisible{
+	font-size: 12px;
+}
+.footer-content{
+	text-align: center;
+}
+.footer-content ul li h5.head {
+    padding-bottom: 15px;
+    font-size: 15px;
+}
+
+.social-link {
+    justify-content: center;
+}
+
+.follow {
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    max-width: 100%; 
+
+
+}
+.social{
+	margin-top: 20px;
+}
+
+@media(max-width: 767px){
+
+		header{
+			    background-image: url();
+		}
+		.banner-content{
+			text-align: center;
+		}
+
+		header h1{
+			font-size: 42px;
+		}
+
+		.partner-section .row div {
+
+     		padding: 1rem 8px !important;
+
+	}
+
+	.about-section{
+				background-size: 0 !important;
+				
+			}
+
+	.question-section ul li{
+		font-size: 16px;
+	}
+
+	.subscription-section .heading {
+			margin-top: 20px !important;
+		}
+
+}
+
+@media(max-width: 575px){
+
+			header h1{
+			font-size: 35px;
+		}
+
+		.banner-content a{
+
+				margin-bottom: 15px;
+		}
+
+		.banner-content{
+			padding: 50px 0;
+		}
+		.feature{
+			margin-bottom: 30px;
+		}
+		.feature.feature-padding{
+			text-align: center;
+		}
+		.feature.feature-padding a{
+			justify-content: center;
+		}
+		.feature h1{
+			font-size: 18px;
+		}
+		.members-section ul li h4 {
+    		font-size: 35px;
+    		}
+    		.members-section ul li h3 {
+    		font-size: 15px;
+    		}
+    	.members-section a{
+    		font-size: 16px !important;
+    		padding: 15px 20px !important;
+    		margin: 15px 0;
+    		display: block;
+    	}
+    		
+		.price-table{
+			margin-top: 15px;
+		}
+
+		.price-table:hover .price-heading {
+    		padding-top: 40px;
+		}
+		.footer-content ul li h5.head {
+    		padding-bottom: 5px;
+		}
+		footer{
+			padding-top: 50px;
+			padding-bottom: 30px;
+		}
+
+		.footer-bottom-section p{
+			margin-bottom: 15px;
+		}
+
+
+}
